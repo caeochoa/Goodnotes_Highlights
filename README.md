@@ -1,7 +1,7 @@
 # Goodnotes Highlights
-A python script that takes a pdf highlighted in Goodnotes and exports all the highlights into plain text.
+A Python script that takes a pdf highlighted in Goodnotes and exports all the highlights into plain text.
 
-Inspired by [Extracting PDF Highlights using Python](https://medium.com/@vinitvaibhav9/extracting-pdf-highlights-using-python-9512af43a6d) and using the python library [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/intro.html)
+Inspired by [Extracting PDF Highlights using Python](https://medium.com/@vinitvaibhav9/extracting-pdf-highlights-using-python-9512af43a6d) and using the Python library [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/intro.html)
 
 ## Instructions
 The script is in the `ghighlights.py` file. Just run it in the terminal and you'll be prompted for the filename (ideally in the same folder as the script).
